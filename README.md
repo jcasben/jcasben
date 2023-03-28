@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jcasben" alt="jcasben" /></a> </p>
 
-- 🔭 I’m currently working on [personal projects:](https://github.com/jcasben/VehicleRegister)
+- 🔭 I’m currently working on [personal projects](https://github.com/jcasben/VehicleRegister)
 
-- 🌱 I’m currently learning **Java and SQL**
+- 🌱 I’m currently learning **Java, SQL and Rust**
 
 - 👯 I’m looking to collaborate on **any possible project.**
 
