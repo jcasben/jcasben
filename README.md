@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [personal projects](https://github.com/jcasben/VehicleRegister)
 
-- 🌱 I’m currently learning **Java, SQL and Rust**
+- 🌱 I’m currently learning **Java, SQL, Rust and React**
 
 - 👯 I’m looking to collaborate on **any possible project.**
 
