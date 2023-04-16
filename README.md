@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jesus</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jcasben&label=Profile%20views&color=0e75b6&style=flat" alt="jcasben" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jcasben" alt="jcasben" /></a> </p>
 
