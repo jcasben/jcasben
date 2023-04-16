@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **FullStack development(React/Node.js), Rust, mySQL**
 
-- 👯 I’m looking to collaborate on [programacion-2](https://github.com/Brouse13/programacion-2)
+- 👯 I’m collaborating on [programacion-2](https://github.com/Brouse13/programacion-2)
 
 - 💬 Ask me about **Java**
 
