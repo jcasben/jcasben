@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **FullStack development(React/Node.js), Rust, mySQL**
 
-- 👯 I’m collaborating on [programacion-2](https://github.com/Brouse13/programacion-2)
+- 👯 I’m collaborating on [PuzzleGame](https://github.com/jcasben/PuzzleGame) and [matematica-discreta](https://github.com/jcasben/matematica-discreta)
 
 - 💬 Ask me about **Java**
 
