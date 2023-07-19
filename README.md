@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **FullStack development(React/Node.js), Rust, mySQL**
-
-- 👯 I’m collaborating on [PuzzleGame](https://github.com/jcasben/PuzzleGame) and [matematica-discreta](https://github.com/jcasben/matematica-discreta)
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Java**
 
