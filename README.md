@@ -42,6 +42,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jcasben/jcasben/output/snake.svg" alt="Snake animation" />
-
 ###
