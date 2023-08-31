@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Mi nombre es Jesús y soy un desarrollador de dosftware español.</h2>
+<h2 align="left">Hola 👋! Mi nombre es Jesús y soy un desarrollador de software español.</h2>
 
 ###
 
