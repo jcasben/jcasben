@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jesús and I'm a developer from Spain.</h2>
+<h2 align="left">Hola 👋! Mi nombre es Jesús y soy un desarrollador de dosftware español.</h2>
 
 ###
 
@@ -36,3 +36,8 @@
 </div>
 
 ###
+
+## Sobre mi:
+- Actualmente estudiando Ingeniería Informática.
+- Estoy aprendiendo Java, Rust y SQL.
+- Me gustaría enfocarme en el desarrollo de backend, pero aun estoy abierto a cualquier rama.
