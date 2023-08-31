@@ -38,6 +38,6 @@
 ###
 
 ## Sobre mi:
-- Actualmente estudiando Ingeniería Informática.
+- Actualmente estudiando 2º de Ingeniería Informática.
 - Estoy aprendiendo Java, Rust y SQL.
 - Me gustaría enfocarme en el desarrollo de backend, pero aun estoy abierto a cualquier rama.
