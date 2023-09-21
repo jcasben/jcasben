@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Mi nombre es Jesús y soy un desarrollador de software español.</h2>
+<h2 align="left">Hi 👋! My name is Jesús and I am a Spanish software developer.</h2>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-## Sobre mi:
-- Actualmente estudiando 2º de Ingeniería Informática.
-- Estoy aprendiendo Java, Rust y SQL.
-- Me gustaría enfocarme en el desarrollo de backend, pero aún estoy abierto a cualquier rama ya que me gusta mucho experimentar.
+## About me:
+- Studying 2nd course of Informatics Engineering.
+- Learning Java and Rust.
+- I am looking forward to be a backend developer.
