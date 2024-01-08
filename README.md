@@ -31,5 +31,5 @@
 
 ## About me:
 - Studying 2nd course of Informatics Engineering.
-- Learning Java, Rust and C#.
+- Learning Rust and thinking on learning Elixir.
 - I am looking forward to be a backend developer.
