@@ -1,31 +1,26 @@
-<h2 align="left">Hi 👋! My name is Jesús and I am a Spanish software developer.</h2>
+# **Hi! My name is Jesus!**
 
-###
+### **About me**
+I enjoy designing and building new software solutions that can help people's daily problems. I am looking forward to become a professional **backend developer**, but I'm also very interested on Artificial Intelligence and how we can use it to make innovative solutions.
 
+Currently studying Informatics Engineering degree at [UIB](https://www.uib.cat/). I'm very passionate about the tech world and learning new things about it, such as learning new technologies or understanding how does the technology that we use every day work.
+
+Working mostly on [academic projects](https://github.com/jcasben/Programacion-Ing-Informatica), but developing personal ones on my free time.
+
+## **Tech stack**
+
+[![My Skills](https://skillicons.dev/icons?i=java,rust,c,linux,git,vscode,idea)](https://skillicons.dev)
+
+### **Wanting to learn**
+
+[![My Skills](https://skillicons.dev/icons?i=spring,rocket,docker,mongodb)](https://skillicons.dev)
+
+## **How to contact me**
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jcasben_/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jesuscastillobenito/)
+
+## GitHub stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jcasben&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcasben&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-<h2>Tech stack</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=java,rust,c,linux,git)](https://skillicons.dev)
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/jcasben_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jesus-castillo-benito-3ba470257/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-## About me:
-- Studying 2nd course of Informatics Engineering.
-- Learning Rust and thinking on learning Elixir.
-- I am looking forward to be a backend developer.
