@@ -9,9 +9,8 @@
 
 ###
 <h2>Tech stack</h2>
-<div align="left">
-  [![My Skills](https://skillicons.dev/icons?i=java,rust,c,linux,git)](https://skillicons.dev)
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=java,rust,c,linux,git)](https://skillicons.dev)
 
 ###
 
