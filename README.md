@@ -9,7 +9,7 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 
 ## **Tech stack**
 
-[![My Skills](https://skillicons.dev/icons?i=java,rust,c,linux,git,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,rust,c,postman,linux,git,vscode,idea)](https://skillicons.dev)
 
 ### **Wanting to learn**
 
