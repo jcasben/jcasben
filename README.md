@@ -13,7 +13,7 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 
 ### **Wanting to learn**
 
-[![My Skills](https://skillicons.dev/icons?i=spring,rocket,docker,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,rocket,docker,mongodb,typescript)](https://skillicons.dev)
 
 ## **How to contact me**
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jcasben_/)
