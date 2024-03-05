@@ -9,11 +9,25 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 
 ## **Tech stack**
 
-[![My Skills](https://skillicons.dev/icons?i=java,rust,c,postman,linux,git,vscode,idea)](https://skillicons.dev)
+### **Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=java,rust,c)](https://skillicons.dev)
+
+### **Frameworks**
+
+[![My Skills](https://skillicons.dev/icons?i=rocket)](https://skillicons.dev)
+
+### **Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,bash,postman,vscode,idea)](https://skillicons.dev)
+
+### **Databases**
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
 ### **Wanting to learn**
 
-[![My Skills](https://skillicons.dev/icons?i=spring,kotlin,rocket,docker,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,kotlin,docker)](https://skillicons.dev)
 
 ## **How to contact me**
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jcasben_/)
