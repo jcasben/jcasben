@@ -25,7 +25,7 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
-### **Wanting to learn**
+### **Learning / Wanting to learn**
 
 [![My Skills](https://skillicons.dev/icons?i=spring,kotlin,docker)](https://skillicons.dev)
 
