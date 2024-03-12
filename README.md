@@ -27,7 +27,7 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 
 ### **Learning / Wanting to learn**
 
-[![My Skills](https://skillicons.dev/icons?i=spring,php,laravel,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,docker)](https://skillicons.dev)
 
 ## **How to contact me**
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jcasben_/)
