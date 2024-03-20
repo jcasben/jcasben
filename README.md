@@ -11,7 +11,7 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 
 ### **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,rust,c)](https://skillicons.dev)
 
 ### **Frameworks**
 
