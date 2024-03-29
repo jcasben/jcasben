@@ -30,5 +30,5 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 [![My Skills](https://skillicons.dev/icons?i=spring,postgres,docker)](https://skillicons.dev)
 
 ## **How to contact me**
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jcasben_/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jesuslearnstocode/)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jesuscastillobenito/)
