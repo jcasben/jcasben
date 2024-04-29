@@ -15,11 +15,11 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 
 ### **Frameworks**
 
-[![My Skills](https://skillicons.dev/icons?i=spring,rocket)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,rocket,angular)](https://skillicons.dev)
 
 ### **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,bash,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,github,postman,bash,idea,vscode)](https://skillicons.dev)
 
 ### **Databases**
 
@@ -27,7 +27,7 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 
 ### **Learning / Wanting to learn**
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 
 ## **How to contact me**
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jesuslearnstocode/)
