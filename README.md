@@ -15,7 +15,7 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 
 ### **Frameworks**
 
-[![My Skills](https://skillicons.dev/icons?i=spring,rocket,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,angular,rocket)](https://skillicons.dev)
 
 ### **Tools**
 
