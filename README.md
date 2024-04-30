@@ -19,7 +19,7 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 
 ### **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,github,postman,bash,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,github,postman)](https://skillicons.dev)
 
 ### **Databases**
 
