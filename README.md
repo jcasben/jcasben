@@ -32,3 +32,8 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 ## **How to contact me**
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jesuslearnstocode/)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jesuscastillobenito/)
+
+<details>
+  <summary><h2>Github Stats</h2></summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcasben&layout=compact" />
+</details>
