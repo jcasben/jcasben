@@ -11,23 +11,23 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 
 ### **Languages**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,rust,c)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,rust,c&titles=true)
 
 ### **Frameworks**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,angular,rocket)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,angular,rocket&titles=true)
 
 ### **Tools**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,docker,github,postman)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,docker,github,postman&titles=true)
 
 ### **Databases**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb&titles=true)
 
 ### **Learning / Wanting to learn**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,kotlin&titles=true)
 
 ## **How to contact me**
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jesuslearnstocode/)
