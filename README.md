@@ -27,7 +27,7 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 
 ### **Learning / Wanting to learn**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,jetpackcompose,firebase&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose,firebase&titles=true)
 
 ## **How to contact me**
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jesuslearnstocode/)
