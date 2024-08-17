@@ -1,9 +1,10 @@
 # **Hi! My name is Jesus!**
 
 ### **About me**
-I enjoy designing and building new software solutions that can help people's daily problems. I am looking forward to become a professional **backend developer**, but I'm also very interested on Artificial Intelligence and how we can use it to make innovative solutions.
 
-Currently studying Informatics Engineering degree at [UIB](https://www.uib.cat/). I'm very passionate about the tech world and learning new things about it, such as learning new technologies or understanding how does the technology that we use every day work.
+On my way up to be the best version of me everyday. Passionate about designing and building cool stuff that could help people in real situations.
+
+Recently discovered the world of Android development. Since then, working hard to become a Fullstack Android Developer while studying Informatics Engineering degree at UIB.
 
 Working mostly on [academic projects](https://github.com/jcasben/Programacion-Ing-Informatica), but developing personal ones on my free time.
 
