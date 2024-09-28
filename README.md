@@ -16,7 +16,7 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 
 ### **Frameworks**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,androidstudio,jetpackcompose&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,androidstudio,jetpackcompose,rocket&titles=true)
 
 ### **Tools**
 
