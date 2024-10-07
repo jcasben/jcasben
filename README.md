@@ -16,7 +16,7 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 
 ### **Frameworks**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,androidstudio,jetpackcompose,rocket&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,androidstudio,jetpackcompose,rocket,firebase&titles=true)
 
 ### **Tools**
 
@@ -27,8 +27,6 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql&titles=true)
 
 ### **Learning / Wanting to learn**
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase&titles=true)
 
 ## **How to contact me**
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jesuslearnstocode/)
