@@ -2,7 +2,7 @@
 
 ### **About me**
 
-On my way up to be the best version of me everyday. Passionate about designing and building cool stuff that could help people in real situations.
+On my way up to be the best version of me everyday. Passionate about designing and building cool stuff that could help people with real-world problems.
 
 Recently discovered the world of Android development. Since then, working hard to become a Fullstack Android Developer while studying Informatics Engineering degree at UIB.
 
