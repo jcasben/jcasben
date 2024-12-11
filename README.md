@@ -14,19 +14,14 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,rust,c&titles=true)
 
-### **Frameworks**
+### **Technologies**
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,androidstudio,jetpackcompose,rocket,firebase&titles=true)
 
-### **Tools**
-
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,docker,github,postman&titles=true)
-
-### **Databases**
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql&titles=true)
 
-### **Learning / Wanting to learn**
 
 ## **How to contact me**
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jesuslearnstocode/)
