@@ -4,19 +4,13 @@
 
 On my way up to be the best version of me everyday. Passionate about designing and building cool stuff that could help people with real-world problems.
 
-Recently discovered the world of Android development. Since then, working hard to become a Fullstack Android Developer while studying Informatics Engineering degree at UIB.
-
 Working mostly on [academic projects](https://github.com/jcasben/Programacion-Ing-Informatica), but developing personal ones on my free time.
 
 ## **Tech stack**
 
-### **Languages**
-
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,rust,c&titles=true)
 
-### **Technologies**
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,androidstudio,jetpackcompose,rocket,firebase&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,androidstudio,jetpackcompose,firebase&titles=true)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,docker,github,postman&titles=true)
 
