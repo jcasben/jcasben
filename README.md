@@ -12,10 +12,13 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,android,firebase&titles=true)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,docker,github,postman&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,docker,postman&titles=true)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql&titles=true)
 
+### **Currently learning...**
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nestjs,vue&titles=true)
 
 ## **How to contact me**
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jesuslearnstocode/)
