@@ -18,7 +18,7 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 
 ### **Currently learning...**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nestjs,vue&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vue&titles=true)
 
 ## **How to contact me**
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jesuslearnstocode/)
