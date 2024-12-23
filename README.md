@@ -10,9 +10,9 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,rust,c&titles=true)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,android,firebase&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,android&titles=true)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,docker,postman&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,firebase,docker,postman&titles=true)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql&titles=true)
 
