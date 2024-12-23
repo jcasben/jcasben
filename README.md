@@ -16,10 +16,6 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql&titles=true)
 
-### **Currently learning...**
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vue&titles=true)
-
 ## **How to contact me**
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jesuslearnstocode/)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jesuscastillobenito/)
