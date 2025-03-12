@@ -8,7 +8,7 @@ Working mostly on [academic projects](https://github.com/jcasben/Programacion-In
 
 ## **Tech stack**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,rust,c&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,rust&titles=true)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,android&titles=true)
 
